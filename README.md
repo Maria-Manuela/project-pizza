@@ -10,5 +10,6 @@ However, I did had some challenges with defining different options, and give an 
 I did use chat GPT for helping me by naming variables properly and for a better structure. 
 
 ## View it live
+pizzaplay.netlify.app 
 
 
