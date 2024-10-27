@@ -1,4 +1,4 @@
-# Project Name
+# JavaScript Pizzeria
 
 This is my first play with JavaScript and it´s an easy command for food ordering.
 
